@@ -1,0 +1,128 @@
+/* Curso CSS estilos*/
+html{
+
+margin:0; 
+padding:0; 
+height:100%; 
+width: 100%;
+font-family: 'Arial Narrow','Arial','Helvetica','sans-serif';
+
+}
+
+body
+ {
+   font-family: Arial, Helvetica, sans-serif;
+    margin: 4mm 2mm 3mm 3mm; 
+   /*       top down izq der */
+  font-size: 12px;
+  
+ }
+
+
+
+.titulo
+{
+text-align: right;  
+border-collapse: collapse;
+padding-left: 40px;
+width: 100%;
+
+}
+
+.titulo-td
+{
+
+padding: 2px;
+border: 1px solid #000;
+
+}
+
+
+.banner
+{
+text-align: left;  
+border-collapse: collapse;
+padding-top: 10px;
+padding-left: 40px;
+width: 100%;
+
+}
+
+.cabecera
+{
+text-align: left;  
+border-collapse: collapse;
+padding-top: 10px;
+padding-left: 40px;
+/*width: 100%;*/
+
+}
+
+.cabecera-td
+{
+
+padding: 2px;
+padding-left: 5px;
+
+}
+
+.detalle
+{
+text-align: left;  
+border-collapse: collapse;
+padding-top: 10px;
+padding-left: 40px;
+width: 100%;
+
+}
+
+.detalle-td
+{
+
+padding: 1px;
+border: 1px solid #000;
+
+}
+
+
+.firma
+{
+text-align: center;  
+border-collapse: collapse;
+padding-top: 50px;
+padding-left: 40px;
+width: 100%;
+
+}
+
+.text-center
+{
+
+text-align: center;
+
+}
+
+.text-left
+{
+
+text-align: left;
+
+}
+
+.text-right
+{
+
+text-align: right;
+
+}
+
+
+
+#piedepagina{
+position: absolute;
+bottom: 0 !important;
+bottom: 15px;
+text-align: center;
+
+
+}
